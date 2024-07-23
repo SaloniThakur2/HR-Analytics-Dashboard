@@ -1,2 +1,2 @@
 ## HR-Analytics-Dashboard
-![image](https://github.com/user-attachments/assets/444ea8b1-88da-4dc1-95fb-d3375b143677)
+![Screenshot 2024-07-23 185207](https://github.com/user-attachments/assets/a01f4da7-4410-4a37-a01a-ecd2e974952e)
