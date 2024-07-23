@@ -1,5 +1,4 @@
 ## HR-Analytics-Dashboard
-![Screenshot 2024-07-23 185207](https://github.com/user-attachments/assets/a01f4da7-4410-4a37-a01a-ecd2e974952e)
 
 This repository contains an HR Analytics Dashboard created using Power BI. The dashboard provides a comprehensive view of key HR metrics and insights, designed to help HR professionals make data-driven decisions. The visualizations included in the dashboard are:
 
@@ -21,3 +20,5 @@ Features
 Interactive Visualizations: Users can interact with the dashboard, filter data, and drill down into specific metrics.
 User-Friendly Interface: The dashboard is designed to be intuitive and easy to navigate, with clear and concise visualizations.
 Real-Time Insights: The dashboard can be connected to live data sources to provide up-to-date HR metrics and insights.
+
+![Screenshot 2024-07-23 185207](https://github.com/user-attachments/assets/a01f4da7-4410-4a37-a01a-ecd2e974952e)
